@@ -2,7 +2,9 @@ package common;
 
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+Can be solved using sliding window problem.
+**/
 public class LongestNonRepeatingSubstring {
 
     public static int find(String s) {
